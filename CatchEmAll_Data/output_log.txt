@@ -1,0 +1,57 @@
+Initialize engine version: 5.3.2f1 (e87ab445ead0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 8650G + 8600/8700M Dual Graphics (ID=0x990b)
+    Vendor:   ATI
+    VRAM:     2763 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Sean\Documents\GitHub\Assignment1\CatchEmAll_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Sean\Documents\GitHub\Assignment1\CatchEmAll_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Sean\Documents\GitHub\Assignment1\CatchEmAll_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Sean\Documents\GitHub\Assignment1\CatchEmAll_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Sean\Documents\GitHub\Assignment1\CatchEmAll_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Sean\Documents\GitHub\Assignment1\CatchEmAll_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Sean\Documents\GitHub\Assignment1\CatchEmAll_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Sean\Documents\GitHub\Assignment1\CatchEmAll_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.192 seconds
+Platform assembly: C:\Users\Sean\Documents\GitHub\Assignment1\CatchEmAll_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Sean\Documents\GitHub\Assignment1\CatchEmAll_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+desktop: 1680x1050 60Hz; virtual: 3046x1050 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 1.151484 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.521993 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 248.
+Total: 0.295873 ms (FindLiveObjects: 0.036522 ms CreateObjectMapping: 0.018466 ms MarkObjects: 0.227342 ms  DeleteObjects: 0.012721 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.197445 ms
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 248.
+Total: 0.261402 ms (FindLiveObjects: 0.027494 ms CreateObjectMapping: 0.014362 ms MarkObjects: 0.202310 ms  DeleteObjects: 0.015593 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.506800 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 248.
+Total: 0.252374 ms (FindLiveObjects: 0.025853 ms CreateObjectMapping: 0.013952 ms MarkObjects: 0.205182 ms  DeleteObjects: 0.005745 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.531833 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 248.
+Total: 0.255247 ms (FindLiveObjects: 0.028315 ms CreateObjectMapping: 0.016004 ms MarkObjects: 0.203541 ms  DeleteObjects: 0.006565 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.495310 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 239.
+Total: 0.266737 ms (FindLiveObjects: 0.034060 ms CreateObjectMapping: 0.015593 ms MarkObjects: 0.208465 ms  DeleteObjects: 0.006565 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2814 -> priority: 1 
